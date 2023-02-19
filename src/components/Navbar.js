@@ -27,8 +27,6 @@ function Navbar() {
 
     window.addEventListener('resize', showButton)
 
-    //test
-
     return (
         <>
             <nav className="navbar">

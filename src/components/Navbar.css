@@ -41,7 +41,7 @@
   list-style: none;
   text-align: center;
   width: 60vw;
-  justify-content: start;
+  justify-content: end;
   margin-right: 2rem;
 }
 
@@ -59,7 +59,7 @@
 }
 
 .nav-links:hover {
-  /* border-bottom: 4px solid #fff; */
+  border-bottom: 4px solid #fff;
   transition: all 0.2s ease-out;
 }
 
@@ -80,10 +80,6 @@
     position: relative;
   }
 
-  .sign-up-btn {
-    display: none !important;
-  }
-
   .nav-menu {
     display: flex;
     flex-direction: column;
@@ -94,6 +90,7 @@
     left: -100%;
     opacity: 1;
     transition: all 0.5s ease;
+    justify-content: flex-start;
   }
 
   .nav-menu.active {
@@ -115,6 +112,8 @@
     background-color: #fff;
     color: #242424;
     border-radius: 0;
+    border-bottom: none;
+
   }
 
   .navbar-logo {
