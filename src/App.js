@@ -13,10 +13,10 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route path="/" exact element={<Home />} />
-          <Route path="/services" exact element={<Services />} />
-          <Route path="/products" exact element={<Products />} />
-          <Route path="/sign-up" exact element={<SignUp />} />
+          <Route path="/trvl-react-app" exact element={<Home />} />
+          <Route path="/trvl-react-app/services" exact element={<Services />} />
+          <Route path="/trvl-react-app/products" exact element={<Products />} />
+          <Route path="/trvl-react-app/sign-up" exact element={<SignUp />} />
         </Routes>
       </Router>
 
