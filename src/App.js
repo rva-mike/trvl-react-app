@@ -5,6 +5,8 @@ import Home from './components/pages/Home';
 import Services from './components/pages/Services';
 import Products from './components/pages/Products';
 import SignUp from './components/pages/SignUp';
+import Footer from './components/Footer';
+
 
 
 function App() {
@@ -18,8 +20,9 @@ function App() {
           <Route path="/trvl-react-app/products" exact element={<Products />} />
           <Route path="/trvl-react-app/sign-up" exact element={<SignUp />} />
         </Routes>
+        <Footer />
       </Router>
-
+      
     </>
 
 
