@@ -1,6 +1,11 @@
 import React from 'react'
 import CardItem from './CardItem'
 import './Cards.css'
+import images9 from '../images copy/img-9.jpg'
+import images2 from '../images copy/img-1.jpg'
+import images3 from '../images copy/img-2.jpg'
+import images4 from '../images copy/img-3.jpg'
+import images8 from '../images copy/img-8.jpg'
 
 function Cards() {
     return (
@@ -10,36 +15,36 @@ function Cards() {
                 <div className="cards__wrapper">
                     <ul className='cards__items'>
                         <CardItem
-                            src='images/img-9.jpg'
+                            src={images9}
                             text='Explore the hidden waterfall deep inside the Amazon Jungle'
                             label='Adventure'
-                            path='/services'
+                            path='/trvl-react-app/services'
                         />
                         <CardItem
-                            src='images/img-2.jpg'
+                            src={images2}
                             text='Travel through the Islands of Bali in a Private Cruise'
                             label='Luxury'
-                            path='/services'
+                            path='/trvl-react-app/services'
                         />
                     </ul>
                     <ul className='cards__items'>
                         <CardItem
-                            src='images/img-3.jpg'
+                            src={images3}
                             text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
                             label='Mystery'
-                            path='/services'
+                            path='/trvl-react-app/services'
                         />
                         <CardItem
-                            src='images/img-4.jpg'
+                            src={images4}
                             text='Experience Football on Top of the Himilayan Mountains'
                             label='Adventure'
-                            path='/services'
+                            path='/trvl-react-app/services'
                         />
                         <CardItem
-                            src='images/img-8.jpg'
+                            src={images8}
                             text='Ride through the Sahara Desert on a guided camel tour'
                             label='Adrenaline'
-                            path='/sign-up'
+                            path='/trvl-react-app/sign-up'
                         />
                     </ul>
                 </div>
