@@ -25,90 +25,90 @@ function Footer() {
                     </form>
                 </div>
             </section>
-            <div class='footer-links'>
+            <div className='footer-links'>
                 <div className='footer-link-wrapper'>
-                    <div class='footer-link-items'>
+                    <div className='footer-link-items'>
                         <h2>About Us</h2>
-                        <Link to='/sign-up'>How it works</Link>
-                        <Link to='/'>Testimonials</Link>
-                        <Link to='/'>Careers</Link>
-                        <Link to='/'>Investors</Link>
-                        <Link to='/'>Terms of Service</Link>
+                        <Link to='/trvl-react-app'>How it works</Link>
+                        <Link to='/trvl-react-app'>Testimonials</Link>
+                        <Link to='/trvl-react-app'>Careers</Link>
+                        <Link to='/trvl-react-app'>Investors</Link>
+                        <Link to='/trvl-react-app'>Terms of Service</Link>
                     </div>
-                    <div class='footer-link-items'>
+                    <div className='footer-link-items'>
                         <h2>Contact Us</h2>
-                        <Link to='/'>Contact</Link>
-                        <Link to='/'>Support</Link>
-                        <Link to='/'>Destinations</Link>
-                        <Link to='/'>Sponsorships</Link>
+                        <Link to='/trvl-react-app'>Contact</Link>
+                        <Link to='/trvl-react-app'>Support</Link>
+                        <Link to='/trvl-react-app'>Destinations</Link>
+                        <Link to='/trvl-react-app'>Sponsorships</Link>
                     </div>
                 </div>
                 <div className='footer-link-wrapper'>
-                    <div class='footer-link-items'>
+                    <div className='footer-link-items'>
                         <h2>Videos</h2>
-                        <Link to='/'>Submit Video</Link>
-                        <Link to='/'>Ambassadors</Link>
-                        <Link to='/'>Agency</Link>
-                        <Link to='/'>Influencer</Link>
+                        <Link to='/trvl-react-app'>Submit Video</Link>
+                        <Link to='/trvl-react-app'>Ambassadors</Link>
+                        <Link to='/trvl-react-app'>Agency</Link>
+                        <Link to='/trvl-react-app'>Influencer</Link>
                     </div>
-                    <div class='footer-link-items'>
+                    <div className='footer-link-items'>
                         <h2>Social Media</h2>
-                        <Link to='/'>Instagram</Link>
-                        <Link to='/'>Facebook</Link>
-                        <Link to='/'>Youtube</Link>
-                        <Link to='/'>Twitter</Link>
+                        <Link to='/trvl-react-app'>Instagram</Link>
+                        <Link to='/trvl-react-app'>Facebook</Link>
+                        <Link to='/trvl-react-app'>Youtube</Link>
+                        <Link to='/trvl-react-app'>Twitter</Link>
                     </div>
                 </div>
             </div>
-            <section class='social-media'>
-                <div class='social-media-wrap'>
-                    <div class='footer-logo'>
-                        <Link to='/' className='social-logo'>
+            <section className='social-media'>
+                <div className='social-media-wrap'>
+                    <div className='footer-logo'>
+                        <Link to='/trvl-react-app' className='social-logo'>
                             TRVL
-                            <i class='fab fa-typo3' />
+                            <i className='fab fa-typo3' />
                         </Link>
                     </div>
-                    <small class='website-rights'>TRVL © 2023</small>
-                    <div class='social-icons'>
+                    <small className='website-rights'>TRVL © 2023</small>
+                    <div className='social-icons'>
                         <Link
-                            class='social-icon-link facebook'
-                            to='/'
+                            className='social-icon-link facebook'
+                            to='/trvl-react-app'
                             target='_blank'
                             aria-label='Facebook'
                         >
-                            <i class='fab fa-facebook-f' />
+                            <i className='fab fa-facebook-f' />
                         </Link>
                         <Link
-                            class='social-icon-link instagram'
-                            to='/'
+                            className='social-icon-link instagram'
+                            to='/trvl-react-app'
                             target='_blank'
                             aria-label='Instagram'
                         >
-                            <i class='fab fa-instagram' />
+                            <i className='fab fa-instagram' />
                         </Link>
                         <Link
-                            class='social-icon-link youtube'
-                            to='/'
+                            className='social-icon-link youtube'
+                            to='/trvl-react-app'
                             target='_blank'
                             aria-label='Youtube'
                         >
-                            <i class='fab fa-youtube' />
+                            <i className='fab fa-youtube' />
                         </Link>
                         <Link
-                            class='social-icon-link twitter'
-                            to='/'
+                            className='social-icon-link twitter'
+                            to='/trvl-react-app'
                             target='_blank'
                             aria-label='Twitter'
                         >
-                            <i class='fab fa-twitter' />
+                            <i className='fab fa-twitter' />
                         </Link>
                         <Link
-                            class='social-icon-link twitter'
-                            to='/'
+                            className='social-icon-link twitter'
+                            to='/trvl-react-app'
                             target='_blank'
                             aria-label='LinkedIn'
                         >
-                            <i class='fab fa-linkedin' />
+                            <i className='fab fa-linkedin' />
                         </Link>
                     </div>
                 </div>
