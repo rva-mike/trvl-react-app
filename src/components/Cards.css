@@ -23,6 +23,7 @@
   
   .cards__items {
     margin-bottom: 24px;
+    min-width: 375px;
   }
   
   .cards__item {
