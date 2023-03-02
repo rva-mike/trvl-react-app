@@ -21,7 +21,7 @@ function Navbar() {
         }
     };
 
-    useEffect(()=> {
+    useEffect(() => {
         showButton()
     }, [])
 
@@ -48,7 +48,7 @@ function Navbar() {
                                 Services
                             </Link>
                         </li>
-                        <li className="nav-item">
+                        <ul className="nav-item">
                             <Link to='/trvl-react-app/products' className='nav-links' onClick={closeMobileMenu}>
                                 Products
                             </Link>
@@ -57,9 +57,9 @@ function Navbar() {
                                     Sign Up
                                 </Link>
                             </li>
-                        </li>
+                        </ul>
                     </ul>
-                    {button && <Button className='sign-up-btn'  buttonStyle='btn--outline'>SIGN UP</Button>}
+                    {button && <Button className='sign-up-btn' buttonStyle='btn--outline'>SIGN UP</Button>}
                 </div>
             </nav>
         </>
