@@ -12,7 +12,7 @@ function Footer() {
         transition: 'all 0.3s ease-out',
         padding: '12px 26px',
         fontSize: '20px',
-        width: '100%'
+        width: '95%'
        };
 
     return (
