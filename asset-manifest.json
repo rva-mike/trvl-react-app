@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/trvl-react-app/static/css/main.62c38130.css",
-    "main.js": "/trvl-react-app/static/js/main.d0a5820f.js",
+    "main.css": "/trvl-react-app/static/css/main.f7dff569.css",
+    "main.js": "/trvl-react-app/static/js/main.84a20eb2.js",
     "static/media/img-4.jpg": "/trvl-react-app/static/media/img-4.a31875b76d39f6458a6e.jpg",
     "static/media/img-3.jpg": "/trvl-react-app/static/media/img-3.6d683c0ee6824af7961a.jpg",
     "static/media/img-1.jpg": "/trvl-react-app/static/media/img-1.53f4843759ebec256cb9.jpg",
@@ -10,11 +10,11 @@
     "static/media/img-9.jpg": "/trvl-react-app/static/media/img-9.f97f588f3670715d01b2.jpg",
     "static/media/img-8.jpg": "/trvl-react-app/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
     "index.html": "/trvl-react-app/index.html",
-    "main.62c38130.css.map": "/trvl-react-app/static/css/main.62c38130.css.map",
-    "main.d0a5820f.js.map": "/trvl-react-app/static/js/main.d0a5820f.js.map"
+    "main.f7dff569.css.map": "/trvl-react-app/static/css/main.f7dff569.css.map",
+    "main.84a20eb2.js.map": "/trvl-react-app/static/js/main.84a20eb2.js.map"
   },
   "entrypoints": [
-    "static/css/main.62c38130.css",
-    "static/js/main.d0a5820f.js"
+    "static/css/main.f7dff569.css",
+    "static/js/main.84a20eb2.js"
   ]
 }
