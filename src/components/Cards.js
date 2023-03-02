@@ -3,9 +3,10 @@ import CardItem from './CardItem'
 import './Cards.css'
 import images9 from '../images copy/img-9.jpg'
 import images2 from '../images copy/img-1.jpg'
-import images3 from '../images copy/img-2.jpg'
-import images4 from '../images copy/img-3.jpg'
+import images3 from '../images copy/img-3.jpg'
+import images4 from '../images copy/img-4.jpg'
 import images8 from '../images copy/img-8.jpg'
+
 
 function Cards() {
     return (
