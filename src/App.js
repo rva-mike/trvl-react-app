@@ -8,7 +8,6 @@ import SignUp from './components/pages/SignUp';
 import Footer from './components/Footer';
 
 
-
 function App() {
   return (
     <>
@@ -22,7 +21,8 @@ function App() {
         </Routes>
         <Footer />
       </Router>
-      
+
+
     </>
 
 

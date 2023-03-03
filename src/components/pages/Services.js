@@ -1,5 +1,12 @@
 import '../../App.css'
+import ScrollToTop from '../ScrollToTop';
+
 
 export default function Services() {
-    return <h1 className="services">SERVICES</h1>;
+    return (
+        <>
+            <ScrollToTop />
+            <h1 className="services">SERVICES</h1>
+        </>
+    )
 }
