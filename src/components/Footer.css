@@ -166,4 +166,11 @@
   
   @media screen and (max-width: 768px) {
 
+    .footer-input {
+      width: 275px;
+    }
+
+    .btn {
+      width: 95%;
+    }
   }
