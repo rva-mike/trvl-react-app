@@ -1,19 +1,9 @@
 import React from 'react';
 import './Footer.css';
-// import { Button } from './Button';
+import { Button } from './Button';
 import { Link } from 'react-router-dom';
 
 function Footer() {
-    let styles = {
-
-        backgroundColor: 'transparent',
-        color: '#fff',
-        border: '1px solid var(--primary)',
-        transition: 'all 0.3s ease-out',
-        padding: '12px 26px',
-        fontSize: '20px',
-        width: '95%'
-       };
 
     return (
         <div className='footer-container'>
@@ -32,7 +22,7 @@ function Footer() {
                             type='email'
                             placeholder='Your Email'
                         />
-                        <button style={styles} >Subscribe</button>
+                        <Button buttonStyle='btn--outline' >Subscribe</Button>
                     </form>
                 </div>
             </section>
