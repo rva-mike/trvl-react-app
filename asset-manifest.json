@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/trvl-react-app/static/css/main.20a0f6d8.css",
+    "main.css": "/trvl-react-app/static/css/main.bf76a230.css",
     "main.js": "/trvl-react-app/static/js/main.d5fc887e.js",
     "static/media/img-4.jpg": "/trvl-react-app/static/media/img-4.a31875b76d39f6458a6e.jpg",
     "static/media/img-3.jpg": "/trvl-react-app/static/media/img-3.6d683c0ee6824af7961a.jpg",
@@ -10,11 +10,11 @@
     "static/media/img-9.jpg": "/trvl-react-app/static/media/img-9.f97f588f3670715d01b2.jpg",
     "static/media/img-8.jpg": "/trvl-react-app/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
     "index.html": "/trvl-react-app/index.html",
-    "main.20a0f6d8.css.map": "/trvl-react-app/static/css/main.20a0f6d8.css.map",
+    "main.bf76a230.css.map": "/trvl-react-app/static/css/main.bf76a230.css.map",
     "main.d5fc887e.js.map": "/trvl-react-app/static/js/main.d5fc887e.js.map"
   },
   "entrypoints": [
-    "static/css/main.20a0f6d8.css",
+    "static/css/main.bf76a230.css",
     "static/js/main.d5fc887e.js"
   ]
 }
