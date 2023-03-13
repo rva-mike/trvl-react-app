@@ -1,7 +1,7 @@
 # TRVL
 
   ## Description
-This is a responsive React.js application that uses React Hooks and React Router. For styling, I used custom CSS, CSS variables, and conditional rendering. This project was meant to be a website for a travel aganecy and was made to increase my knowledge and familiarity of React.js. The application is deloyed using the npm package 'gh-pages'.
+This is a responsive React.js application that uses React Hooks and React Router. For styling, I used custom CSS, CSS variables, and conditional rendering. This project was meant to be a website for a travel agency and was made to increase my knowledge and familiarity of React.js. The application is deployed using the npm package 'gh-pages'.
 
 https://reactjs.org/
 
@@ -27,17 +27,16 @@ https://www.npmjs.com/package/gh-pages
   ## Screenshots
   
   ### Desktop
-  ![rva-mike github io_trvl-react-app_](https://user-images.githubusercontent.com/105617274/221385743-da86671d-36b2-4b0b-aa80-464438860a0a.png)
 
-![rva-mike github io_trvl-react-app_sign-up](https://user-images.githubusercontent.com/105617274/221389191-88d55905-fad1-46d4-9387-8858d6ab0184.png)
+![TRVL_desktop](https://user-images.githubusercontent.com/105617274/224582985-8d7610c8-e3b5-427b-bb8d-ef64883fea0f.png)
 
 
 
 ### Mobile
 
-![rva-mike github io_trvl-react-app_(iPhone 12 Pro) copy](https://user-images.githubusercontent.com/105617274/221389314-d7030a45-feb5-44aa-b968-71c89e75fdb0.png)
+![rva-mike github io_trvl-react-app_(iPhone XR)](https://user-images.githubusercontent.com/105617274/224583163-0e2801b5-aa66-475c-83c8-7fa29f40587f.png)
 
-![rva-mike github io_trvl-react-app_(iPhone 12 Pro) copy](https://user-images.githubusercontent.com/105617274/221389416-28f4eeb3-ff12-43b1-8836-73cc2aa79d1b.png)
+
 
 
 
